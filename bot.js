@@ -8,6 +8,7 @@ const helpMessage = `
 Say somthing to me
 /start - start the bot
 /my_profile - show your last profile pic
+/help - Help
 /userid - show your user id
 /echo <message> - echo a message
 /arsenal - Arsenal
